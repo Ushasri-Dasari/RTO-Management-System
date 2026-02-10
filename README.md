@@ -38,6 +38,9 @@ The RTO Management System (RTOMS) helps digitize RTO operations by allowing user
 - Web Browser (Chrome recommended)
 
 ### Steps to Run the Project
+## Note
+Download the `rtoms.zip` file and extract it before running the project.
+
 1. Download the repository
 2. Extract `rtoms.zip`
 3. Copy the extracted `rtoms` folder to:
